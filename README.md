@@ -1,7 +1,7 @@
 
-# $: git clone https://github.com/PangeranAlvins/Repot3
+# $: git clone https://github.com/Arismrd/FB-Reporting-Script.git
 # $: cd Repot3
 # $: bash install.sh
-# $: python2 Repot3.py
+# $: python2 rprt.py
 
 
